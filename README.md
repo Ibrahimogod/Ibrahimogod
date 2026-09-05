@@ -51,5 +51,4 @@
 
 * **[Bitbucket MCP Server](https://github.com/ibrahimogod/bitbucket-mcp)**: Developed a high-performance Model Context Protocol (MCP) server in Rust and TypeScript for seamless AI agent integration with Bitbucket Cloud REST APIs.
 * **[Ibrahimogod.Repository](https://github.com/ibrahimogod/Ibrahimogod.Repository)**: A comprehensive C# generic repository abstraction framework designed to enforce Clean Architecture and SOLID principles across .NET applications.
-* **[MongoDB-Generic-Repository](https://github.com/ibrahimogod/MongoDB-Generic-Repository)**: A fast, lightweight template to create generic repositories using MongoDB, Node.js, Koa, and TypeScript, engineered to bypass Mongoose for strict performance gains.
 * **[Datenlotsen Inventory Management](https://github.com/ibrahimogod/datenlotsen-inventory-management)**: Enterprise-grade C# inventory management API.
